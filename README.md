@@ -8,13 +8,19 @@ Make it easy to discover, reuse, and contribute Claude Code resources — skills
 
 ## Contents
 
-- `skills/` — custom skills (`SKILL.md` files) that can be dropped into any Claude Code project.
+- `skills/` — custom skills and agents that can be dropped into any Claude Code project.
 
 ## Skills
 
 | Skill | Description |
 | --- | --- |
 | [programming-with-great-fundamentals](skills/programming-with-great-fundamentals/SKILL.md) | Checklist of XP, System Design, SOLID, Hexagonal Architecture, DDD, DS&A, and Clean Code principles to apply when designing, writing, or reviewing non-trivial code. |
+
+## Agents
+
+| Agent | Description |
+| --- | --- |
+| [tech-docs-agent](skills/tech-docs-agent/tech-docs-agent.md) | Answers technical Software Engineering questions grounded in official documentation rather than memory, with links to every doc page used. |
 
 ## Usage
 
