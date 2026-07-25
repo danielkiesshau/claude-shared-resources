@@ -1,6 +1,6 @@
 # Claude Shared Resources
 
-A community-shareable collection of resources for [Claude Code](https://claude.ai/code): skills, agents, and other reusable building blocks.
+A community-shareable collection of SWE-focused resources for [Claude Code](https://claude.ai/code): skills, agents, and other reusable building blocks.
 
 ## Goal
 
